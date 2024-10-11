@@ -1,2 +1,2 @@
-# spotify clone
+# Spotify Clone
 This is my first project.
